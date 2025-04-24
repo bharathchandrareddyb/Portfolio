@@ -1,6 +1,6 @@
-# Data Engineering Portfolio
+# Portfolio
 
-Welcome to my Data Engineering portfolio! Here, I showcase some of the key projects that I've worked on 
+Welcome to my portfolio! Here, I showcase some of the key projects that I've worked on 
 
 
 
